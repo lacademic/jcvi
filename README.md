@@ -93,7 +93,7 @@ Then there are modules that contain domain-specific methods.
 - <kbd>compara</kbd>
   - C-score based BLAST filter.
   - Synteny scan (de-novo) and lift over (find nearby anchors).
-  - Ancestral genome reconstruction using Sankoff's and PAR method.
+  - Ancestral genome reconstruction using Sankoff's and PAR method. # 古基因组构建
   - Ortholog and tandem gene duplicates finder.
 
 ## Applications
